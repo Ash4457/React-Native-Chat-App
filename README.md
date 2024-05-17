@@ -29,6 +29,7 @@ It utilizes Firebase for database, authentication, and real-time functionalities
 2. Install dependencies using `npm install`.
 3. Set up Firebase configurations.
 4. Run the application using `npx react-native run-android` or `npx react-native run-ios`.
+5. Enter your Open API Key.
 
 ## Usage
 1. Navigate through the different pages using the provided navigation.
