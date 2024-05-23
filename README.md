@@ -38,7 +38,7 @@ It utilizes Firebase for database, authentication, and real-time functionalities
 4. Start chatting with other users in real-time.
 
 ## Contributors
-- <a href="https://github.com/Ash4457">Aditya Aggarwal</a>
+- <a href="https://github.com/Ash4457">Aaditya Aggarwal</a>
 - Anuj Kumar
 
 ## License
